@@ -1,0 +1,278 @@
+{
+  "fundingPage": {
+    "pageLayout": {
+      "navigationSectionNavigation": {
+        "homeLink": {
+          "landingPage": "Landing Page"
+        },
+        "sectionNavigationLinks": {
+          "funding": "Funding",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        }
+      },
+      "heroArea": {
+        "textPageTitle": {
+          "fundingPage": "Funding Page"
+        }
+      },
+      "bodyArea": {
+        "textParagraph": {
+          "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+        }
+      },
+      "section": {
+        "textHeading": {
+          "fundsHeader": "Funds Header",
+          "relatedLinks": "Related Links"
+        },
+        "cardArea": {
+          "card": {
+            "cardTitle": {
+              "seed": "Seed",
+              "cultivate": "Cultivate",
+              "grow": "Grow",
+              "digitalGenerator": "Digital Generator",
+              "digitalGreenhouse": "Digital Greenhouse",
+              "applyNow": "Apply now"
+            },
+            "cardText": {
+              "visitOurPortalToBeginYourApplicationProcess": "Visit our portal to begin your application process."
+            },
+            "cardButtonLayout": {
+              "button": {
+                "buttonText": "Button text"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "landingPage": {
+    "pageLayout": {
+      "navigationSectionNavigation": {
+        "homeLink": {
+          "landingPage": "Landing Page"
+        },
+        "sectionNavigationLinks": {
+          "funding": "Funding",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        }
+      },
+      "heroArea": {
+        "textPageTitle": {
+          "landingPage": "Landing Page"
+        }
+      },
+      "bodyArea": {
+        "textHeading": {
+          "componentsOfTheFund": "Components of the fund",
+          "funding": "Funding ",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        },
+        "textParagraph": {
+          "textGoesHere": "Text goes here"
+        },
+        "twoColumnLayout": {
+          "textParagraph": {
+            "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+          },
+          "button": {
+            "buttonText": "Button text"
+          }
+        }
+      },
+      "section": {
+        "textHeading": {
+          "relatedLinks": "Related Links"
+        },
+        "cardArea": {
+          "card": {
+            "cardTitle": {
+              "applyNow": "Apply now"
+            },
+            "cardText": {
+              "visitOurPortalToBeginYourApplicationProcess": "Visit our portal to begin your application process."
+            }
+          }
+        }
+      }
+    }
+  },
+  "landingPageVersion2": {
+    "pageLayout": {
+      "navigationSectionNavigation": {
+        "homeLink": {
+          "landingPage": "Landing Page"
+        },
+        "sectionNavigationLinks": {
+          "funding": "Funding",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        }
+      },
+      "heroArea": {
+        "textPageTitle": {
+          "landingPage": "Landing Page"
+        }
+      },
+      "bodyArea": {
+        "textHeading": {
+          "componentsOfTheFund": "Components of the fund"
+        },
+        "textParagraph": {
+          "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+        },
+        "horizontalColumns": {
+          "twoColumnLayout": {
+            "textHeading": {
+              "fundingOpportunities": "Funding Opportunities",
+              "partnerships": "Partnerships",
+              "outreachAndResources": "Outreach and Resources"
+            },
+            "textParagraph": {
+              "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+            },
+            "button": {
+              "buttonText": "Button text"
+            }
+          }
+        }
+      },
+      "section": {
+        "textHeading": {
+          "relatedLink": "Related Link"
+        },
+        "cardArea": {
+          "card": {
+            "cardTitle": {
+              "applyNow": "Apply now"
+            },
+            "cardText": {
+              "visitOurPortalToBeginYourApplicationProcess": "Visit our portal to begin your application process."
+            }
+          }
+        }
+      }
+    }
+  },
+  "outreach": {
+    "pageLayout": {
+      "navigationSectionNavigation": {
+        "homeLink": {
+          "landingPage": "Landing Page"
+        },
+        "sectionNavigationLinks": {
+          "funding": "Funding",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        }
+      },
+      "heroArea": {
+        "textPageTitle": {
+          "outreachAndResourcesPage": "Outreach and Resources Page"
+        }
+      },
+      "bodyArea": {
+        "textParagraph": {
+          "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+        }
+      },
+      "section": {
+        "textHeading": {
+          "featuredArtist": "Featured Artist",
+          "outreachSessions": "Outreach Sessions",
+          "emailSignup": "Email Signup",
+          "relatedLinks": "Related Links"
+        },
+        "centreLayout": {
+          "twoColumnLayout": {
+            "featuredArtistTextLayout": {
+              "featuredArtistHeading": {
+                "featuredArtistArtistsName": "Featured Artist\u2028Artist’s name"
+              },
+              "featuredArtistDescription": {
+                "description": "Description"
+              },
+              "button": {
+                "buttonText": "Button text"
+              }
+            }
+          }
+        },
+        "buttonLayout": {
+          "button": {
+            "buttonText": "Button text"
+          }
+        },
+        "cardArea": {
+          "card": {
+            "cardTitle": {
+              "applyNow": "Apply now"
+            },
+            "cardText": {
+              "visitOurPortalToBeginYourApplicationProcess": "Visit our portal to begin your application process."
+            }
+          }
+        }
+      },
+      "table": {
+        "tableHeader": {
+          "date": "Date",
+          "time": "Time",
+          "clickRSVPToConfirm": "Click RSVP to confirm"
+        },
+        "tableRow": {
+          "tableRow": "TableRow"
+        }
+      }
+    }
+  },
+  "partnerships": {
+    "pageLayout": {
+      "navigationSectionNavigation": {
+        "homeLink": {
+          "landingPage": "Landing Page"
+        },
+        "sectionNavigationLinks": {
+          "funding": "Funding",
+          "partnerships": "Partnerships",
+          "outreachAndResources": "Outreach and Resources"
+        }
+      },
+      "heroArea": {
+        "textPageTitle": {
+          "partnershipPage": "Partnership Page"
+        }
+      },
+      "bodyArea": {
+        "textParagraph": {
+          "ifYouAreLookingToBuildDigitalCapacityAndTransformYourBusinessModelAndOperationsOrLeverageDigitalTechnologyToAddressSecto": "If you are looking to build digital capacity and transform your business model and operations or leverage digital technology to address sectoral challenges, check our innovation strategic funds. "
+        }
+      },
+      "section": {
+        "textHeading": {
+          "relatedLinks": "Related Links"
+        },
+        "cardArea": {
+          "card": {
+            "cardTitle": {
+              "applyNow": "Apply now"
+            },
+            "cardText": {
+              "visitOurPortalToBeginYourApplicationProcess": "Visit our portal to begin your application process."
+            }
+          }
+        }
+      }
+    }
+  },
+  "cover": {
+    "frame9": {
+      "strategicInnovationFundsDraft": "Strategic Innovation Funds Draft"
+    }
+  }
+}
